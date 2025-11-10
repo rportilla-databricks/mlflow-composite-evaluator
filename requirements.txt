@@ -1,0 +1,25 @@
+# MLflow Composite Evaluator Requirements
+
+# Core MLflow
+mlflow>=2.10.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# HTTP client for LLM calls
+httpx>=0.27.0
+
+# Additional MLflow dependencies
+tiktoken>=0.5.0
+textstat>=0.7.0
+
+# Optional: If you want to use MLflow tracking UI
+# mlflow[extras]>=2.10.0
+
+# Note: You'll also need access to:
+# - A Databricks workspace (or adapt to use OpenAI/Anthropic/etc.)
+# - MLflow tracking server (can run locally: mlflow ui)
+
+
+
