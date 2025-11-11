@@ -247,11 +247,5 @@ Overall Score: 7.5/10 (GOOD)
 - [Building Custom Metrics](https://mlflow.org/docs/latest/llms/llm-evaluate/index.html#creating-custom-llm-evaluation-metrics)
 - [LLM-as-a-Judge Pattern](https://eugeneyan.com/writing/llm-evaluators/)
 
----
-
-## License
-
-MIT - Use this pattern in your own projects!
-
 
 
